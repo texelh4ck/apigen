@@ -1,4 +1,7 @@
 # ApiGen
+![Static Badge](https://img.shields.io/badge/go-gray?style=for-the-badge&logo=go)
+![Static Badge](https://img.shields.io/badge/Go%20Fiber-blue?style=for-the-badge&logo=0)
+
 Permite generar datos de prueba de manera infinita y procedural. Cuenta con una variedad de *funciones* que permiten darnos datos generados según la necesidad que tengas.
 
 ## Uso
