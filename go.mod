@@ -8,6 +8,7 @@ require (
 )
 
 require (
+	github.com/tbxark/g4vercel v0.0.4
 	github.com/andybalholm/brotli v1.0.5 // indirect
 	github.com/google/uuid v1.5.0 // indirect
 	github.com/klauspost/compress v1.17.0 // indirect
